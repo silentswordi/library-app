@@ -1,0 +1,6 @@
+{
+  "name": "کتابخانه پزشکی آفلاین",
+  "description": "نرم‌افزار آفلاین کتابخانه پی‌دی‌اف برای اندروید با دسته‌بندی سرفصل‌ها، نمایش صفحه اصلی و جستجوی اولویت‌دار بالینی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
